@@ -35,7 +35,7 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 # Licence
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
+[PATİKA.DEV](https://app.patika.dev/)
 
 
 
